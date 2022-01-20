@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>Producción: Compañía Nacional de Teatro Clásico</dc:title>
+<dc:creator>Vega Carpio, Lope de</dc:creator>
+<dc:creator>Helena, Pimenta [directora]</dc:creator>
+<dc:creator>León, Maruchi [actriz: Finea]</dc:creator>
+<dc:description>Producción de la Compañía Nacional de Teatro Clásico con texto de Juan Mayorga, estrenada en el Teatro de la Comedia de Madrid el 16 de enero de 2002. Se dieron un total de 92 funciones.</dc:description>
+<dc:contributor>Mayorga, Juan [adaptador]</dc:contributor>
+<dc:type>Representación teatral</dc:type>
+<dc:identifier>dbitem0000210203</dc:identifier>
+<dc:language>Español</dc:language>
+<dcterms:temporal>2002</dcterms:temporal>
+<dcterms:spatial>Madrid</dcterms:spatial>
+
+</metadata>

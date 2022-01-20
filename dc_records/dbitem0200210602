@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>La dama boba [Bologna-Prolope]</dc:title>
+<dc:creator>Vega Carpio, Lope de</dc:creator>
+<dc:creator>Presotto, Marco [coordinador]</dc:creator>
+<dc:description>Edición crítica y archivo digital dirigida por Marco Presotto, por iniciativa de Prolope.</dc:description>
+<dc:publisher>Università de Bologna</dc:publisher>
+<dc:contributor>Boadas, Sònia</dc:contributor>
+<dc:contributor>Maggi, Eugenio</dc:contributor>
+<dc:contributor>Pessarrodona, Aurèlia</dc:contributor>
+<dcterms:created>2015</dcterms:created>
+<dc:type>Edición digital</dc:type>
+<dc:identifier>dbitem0200210602</dc:identifier>
+<dc:source><a href="http://damaboba.unibo.it/index.html">http://damaboba.unibo.it/index.html</a></dc:source>
+<dc:language>Español</dc:language>
+<dc:relation>Hace uso la edición de Presotto de la <i>Parte IX</i> del grupo de investigación Prolope.</dc:relation>
+<dcterms:isVersionOf>dbitem0000210107</dcterms:isVersionOf>
+<dc:rights><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es">https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es</a></dc:rights>
+<dcterms:rightsholder>Università di Bologna</dcterms:rightsholder>
+
+</metadata>

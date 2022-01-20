@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>La dama boba [BVMC]</dc:title>
+<dc:creator>Vega Carpio, Lope de</dc:creator>
+<dc:creator>Zamora Vicente, Antonio [editor]</dc:creator>
+<dc:description>Edición digital de la Biblioteca Virtual Miguel de Cervantes.</dc:description>
+<dc:publisher>Biblioteca Virtual Miguel de Cervantes</dc:publisher>
+<dcterms:created>2000</dcterms:created>
+<dc:type>Edición digital</dc:type>
+<dc:identifier>dbitem0200200602</dc:identifier>
+<dc:source><a href="http://www.cervantesvirtual.com/nd/ark:/59851/bmc639p5">http://www.cervantesvirtual.com/nd/ark:/59851/bmc639p5</a></dc:source>
+<dc:language>Español</dc:language>
+<dc:relation>Se basa en la edición de 1947 de Antonio Zamora Vicente</dc:relation>
+<dcterms:isBasedOn>dbitem0000200113</dcterms:isBasedOn>
+<dc:rights>Copyright BVMC, todos los derechos reservados</dc:rights>
+<dcterms:rightsholder>Biblioteca Virutal Miguel de Cervantes</dcterms:rightsholder>
+
+</metadata>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>La dama boba [videojuego]</dc:title>
+<dc:creator>Manero, Borja</dc:creator>
+<dc:description>Aventura gráfica basada en la obra de teatro con un objetivo didáctico ("serious game").
+Creada por el grupo e-UCM: e-learning group, a través de su plataforma "eAdventure".</dc:description>
+<dc:publisher>e-UCM</dc:publisher>
+<dcterms:created>2013</dcterms:created>
+<dc:type>Videojuego</dc:type>
+<dc:identifier>dbitem0200210501</dc:identifier>
+<dc:source><a href="http://damaboba.e-ucm.es/">http://damaboba.e-ucm.es/</a></dc:source>
+<dc:language>Español</dc:language>
+<dc:relation>Se basa en el texto y en espectáculo del reestreno de la Compañía Réplika Teatro</dc:relation>
+<dcterms:isBasedOn>dbitem0000210201</dcterms:isBasedOn>
+<dc:rights><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es">https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es</a></dc:rights>
+<dcterms:rightsholder>Universidad Complutense de Madrid</dcterms:rightsholder>
+
+</metadata>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>La dama boba [Canon 60]</dc:title>
+<dc:creator>Vega Carpio, Lope de</dc:creator>
+<dc:creator>Presotto, Marco [editor]</dc:creator>
+<dc:description>Edición de Marco Presotto y digitalizada por la Biblioteca Virtual Miguel de Cervantes.</dc:description>
+<dc:publisher>TC/12 Red del Patrimonio Teatral Clásico Español</dc:publisher>
+<dc:contributor>Biblioteca Virtual Miguel de Cervantes</dc:contributor>
+<dcterms:created>2015</dcterms:created>
+<dc:type>Edición digital</dc:type>
+<dc:identifier>dbitem0200210603</dc:identifier>
+<dc:source><a href="https://tc12.uv.es/canon60/C6045_LaDamaBoba.php">https://tc12.uv.es/canon60/C6045_LaDamaBoba.php</a></dc:source>
+<dc:language>Español</dc:language>
+<dc:relation>Se basa en la edición de Presotto de la <i>Parte IX</i> del grupo de investigación Prolope.</dc:relation>
+<dcterms:isBasedOn>dbitem0000210107</dcterms:isBasedOn>
+<dc:rights>Copyright TC/12 Red del Patrimonio Teatral Clásico Español, todos los derechos reservados.</dc:rights>
+<dcterms:rightsholder>Universitat de València</dcterms:rightsholder>
+
+</metadata>

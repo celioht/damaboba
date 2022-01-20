@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>Muñeca de María Guerrero</dc:title>
+<dc:creator>Galván, Francisco</dc:creator>
+<dc:description>Muñeca de madera elaborada por el caricaturista Francisco Galván basada en las fotografías de Antonio García Peris. Artículo de José Francés sobre la figura publicado en <i>Mundo Gráfico</i> (17-12-1913. 5)</dc:description>
+<dc:publisher>Hemeroteca Digital Hispánica</dc:publisher>
+<dcterms:created>1913</dcterms:created>
+<dc:type>Muñeca</dc:type>
+<dc:identifier>dbitem1000200502</dc:identifier>
+<dc:source><a href="http://hemerotecadigital.bne.es/issue.vm?id=0002092091&search=&lang=es">http://hemerotecadigital.bne.es/issue.vm?id=0002092091&search=&lang=es</a></dc:source>
+<dc:relation>La imagen recrea la fotografía de Antonio García Peris y el vestido de la actriz</dc:realation>
+<dcterms:conformsTo>dbitem0000190501</dcterms:conformsTo>
+<dcterms:isBasedOn>dbitem0000190301<dcterms:isBasedOn>
+<dc:rights><a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">http://creativecommons.org/licenses/by-nc-sa/4.0/</a></dc:rights>
+<dcterms:rightsholder>Biblioteca Nacional de España</dcterms:rightsholder>
+
+
+</metadata>

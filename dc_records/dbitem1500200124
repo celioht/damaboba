@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>Expediente de censura de la adaptación de la obra "La dama boba"</dc:title>
+<dc:creator>Vega Carpio, Lope de</dc:creator>
+<dc:creator>García Lorca, Federico [adaptador]</dc:creator>
+<dc:description>Expediente que de censura que contiene el texto de la adaptación de la obra realizada por Federico García Lorca para su representación en el tricentanario de la muerte Lope de Vega. En 4º; 111 p. No se sabe nada de la procedencia del texto, pero pudiera ser una refunción del texto de Diego San José y Rafaela Abadía</dc:description>
+<dc:publisher>Archivo General de la Administración</dc:publisher>
+<dcterms:created>1935</dcterms:created>
+<dc:type>Mecanoscrito</dc:type>
+<dc:identifier>dbitem1500200124</dc:identifier>
+<dc:source><a href="http://pares.mcu.es/ParesBusquedas20/catalogo/description/3536579">http://pares.mcu.es/ParesBusquedas20/catalogo/description/3536579</a></dc:source>
+<dc:language>Español</dc:language>
+<dc:relation>Esta adaptación se basa indudablemente de la versión de Hartzenbusch</dc:realtion>
+<dcterms:isBasedOn>dbitem1000190102</dcterms:isBasedOn>
+<dc:rights>Copyright Archivo General de la Administración, todos los derechos reservados</dc:rights>
+<dcterms:rightsholder>Archivo General de la Administración</dcterms:rightsholder>
+
+</metadata>

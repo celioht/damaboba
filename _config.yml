@@ -18,10 +18,10 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Wax'
+title:            'La dama boba'
 description:      'Minimal Exhibitions with Jekyll'
-url:              'https://minicomp.github.io'
-baseurl:          '/wax'
+url:              'https://celioht.github.io'
+baseurl:          '/damaboba'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
 
@@ -40,6 +40,7 @@ exclude:
   - spec
   - README.md
 incremental: true
+livereload: false
 webrick:
   headers:
     'Access-Control-Allow-Origin': '*'
@@ -65,13 +66,13 @@ kramdown:
 collections:
   exhibits:
     output: true
-  qatar: # name of collection
+  damaboba: # name of collection
     output: true # makes sure pages are output as html files
-    layout: 'qatar_item' # the layout for the pages to use
+    layout: 'damaboba_item' # the layout for the pages to use
     metadata:
-      source: 'qatar.csv' # path to the metadata file within `_data`
+      source: 'damaboba.csv' # path to the metadata file within `_data`
     images:
-      source: 'raw_images/qatar' # path to the directory of images within `_data`
+      source: 'raw_images/damaboba' # path to the directory of images within `_data`
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
@@ -85,15 +86,16 @@ search:
   main:
     index: '/search/index.json' # file the index will get written to
     collections:
-      qatar:
+      damaboba:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
-          - artist
-          - location
           - label
+          - creator
           - _date
           - object_type
-          - current_location
+          - description
+          - repository
+          - signature
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS

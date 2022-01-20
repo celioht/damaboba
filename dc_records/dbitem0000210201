@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>Producción: Compañía Réplika Teatro</dc:title>
+<dc:creator>Vega Carpio, Lope de</dc:creator>
+<dc:creator>Bielski, Jaroslaw [director]</dc:creator>
+<dc:creator>Anadón, Socorro [actriz: Finea]</dc:creator>
+<dc:description>Reestreno de la producción de la Compañía Réplika Teatro, estrenada en el Teatro Juan Bravo de Segovia el 15 de enero de 2010.</dc:description>
+<dc:contributor>Pérez Fernández, Daniel [adaptador]</dc:contributor>
+<dc:contributor>Ruiz de la Prada, Ágatha [vestuario; escenografía]</dc:contributor>
+<dc:type>Representación teatral</dc:type>
+<dc:identifier>dbitem0000210201</dc:identifier>
+<dc:language>Español</dc:language>
+<dcterms:isVersionOf>dbitem0000200232</dcterms:isVersionOf>
+<dcterms:temporal>2010</dcterms:temporal>
+<dcterms:spatial>Segovia</dcterms:spatial>
+
+</metadata>

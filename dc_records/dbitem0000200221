@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>Producción: Compañía del Teatro María Guerrero</dc:title>
+<dc:creator>Vega Carpio, Lope de</dc:creator>
+<dc:creator>Escobar, Luis [director]</dc:creator>
+<dc:creator>Pérez de la Ossa, Huberto [director]</dc:creator>
+<dc:creator>Noriega, Elvira [actriz: Finea]</dc:creator>
+<dc:description>Producción estrenada el 24 de marzo de 1951 en el Teatro María Guerrero de Madrid, alcanzando más de 100 representaciones.</dc:description>
+<dc:contributor>Pérez de la Ossa, Huberto [adaptador]</dc:contributor>
+<dc:contributor>Viudes, Vicente [escenografía]</dc:contributor>
+<dc:type>Representación teatral</dc:type>
+<dc:identifier>dbitem0000200221</dc:identifier>
+<dc:source><a href="https://www.teatro.es/estrenos-teatro/la-dama-boba-7410">Centro de Documentación de las Artes Escénicas y de la Música</a></dc:source>
+<dc:language>Español</dc:language>
+<dcterms:temporal>1951</dcterms:temporal>
+<dcterms:spatial>Madrid</dcterms:spatial>
+
+</metadata>

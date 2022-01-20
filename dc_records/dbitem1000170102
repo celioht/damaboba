@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>La dama boba [copia]</dc:title>
+<dc:creator>Vega Carpio, Lope de</dc:creator>
+<dc:creator>Remírez de Arellano, Luis</dc:creator>
+<dc:creator>Remírez de Arellano, Juan</dc:creator>
+<dc:description>Manuscrito apógrafo que con firma de los copistas.
+Parece ser una copia ilegal extraída de las represantaciones teatrales de la compañía de Pedro de Valdés y Jerónima de Burgos.
+67 h.; 23 x 17 cm
+Encuadernación holandesa</dc:description>
+<dc:publisher>Biblioteca Digital Hispánica</dc:publisher>
+<dcterms:created>XVII</dcterms:created>
+<dc:type>Manuscrito</dc:type>
+<dc:identifier>dbitem1000170102</dc:identifier>
+<dc:source><a href="http://bdh.bne.es/bnesearch/detalle/bdh0000050958">http://bdh.bne.es/bnesearch/detalle/bdh0000050958</a></dc:source>
+<dc:language>Español</dc:language>
+<dc:relation>Manuscrito que parece recoger el texto de las primeras representaciones de la obra</dc:relation>
+<dcterms:isBasedOn>dbitem0000170201</dcterms:isBasedOn>
+<dc:rights><a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">http://creativecommons.org/licenses/by-nc-sa/4.0/</a></dc:rights>
+<dcterms:provenance>Perteneció a la biblioteca de Agustín Durán</dcterms:provenance>
+<dcterms:rightsholder>Biblioteca Nacional de España</dcterms:rightsholder>
+
+</metadata>

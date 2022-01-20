@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>La dama boba [Hartzenbusch]</dc:title>
+<dc:creator>Vega Carpio, Lope</dc:creator>
+<dc:creator>Hartzenbusch, Juan Eugenio [editor]</dc:creator>
+<dc:creator>Rivadeneyra, Manuel [coordinador] [impresor]</dc:creator>
+<dc:description>Testimonio de Hartzenbusch de <i>La dama boba</i> contenido en el primer volumen del tomo 24 de <i>Comedias escogidas de frey Lope de Vega Carpio</i>. Primera edición. 26 cm.; pp.297-316. Procede del ejemplar T/54672 V.1 de la BNE</dc:description>
+<dc:publisher>Imprenta y estereotipia de M. Rivadeneyra</dc:publisher>
+<dc:contributor>Rivadeneyra, Manuel [coordinador] [impresor]</dc:contributor>
+<dcterms:created>1853</dcterms:created>
+<dc:type>Impreso</dc:type>
+<dc:identifier>dbitem1000190102</dc:identifier>
+<dc:source><a href="http://catalogo.bne.es/uhtbin/cgisirsi/x/0/0/57/20/HA2F7776+T.+2/0/X1000554744?user_id=WEBSERVER">http://catalogo.bne.es/uhtbin/cgisirsi/x/0/0/57/20/HA2F7776+T.+2/0/X1000554744?user_id=WEBSERVER</a></dc:source>
+<dc:language>Español</dc:language>
+<dcterms:isPartOf>dbitem1000190101</dcterms:isPartOf>
+<dcterms:isBasedOn>dbitem1000170104</dcterms:isBasedOn>
+<dc:rights>Copyright BNE, todos los derechos reservados</dc:rights>
+<dcterms:rightsholder>Biblioteca Nacional de España</dcterms:rightsholder>
+
+</metadata>

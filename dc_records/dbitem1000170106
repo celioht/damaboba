@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>La dama boba [edición barcelonesa]</dc:title>
+<dc:creator>Vega Carpio, Lope de</dc:creator>
+<dc:description>Edición barcelonesa de la comedia.
+300 h.; 4º; ff. 256r-275v.</dc:description>
+<dc:publisher>En Barcelona: por Sebastian de Comellas y à su costa</dc:publisher>
+<dc:publisher>Biblioteca Digital Hispánica</dc:publisher>
+<dc:contributor>Comellas, Sebastián de [impresor]</dc:contributor>
+<dcterms:created>1618</dcterms:creatdi>
+<dc:type>Impreso</dc:type>
+<dc:identifier>dbitem1000170106</dc:identifier>
+<dc:source><a href="http://bdh.bne.es/bnesearch/detalle/bdh0000088428">http://bdh.bne.es/bnesearch/detalle/bdh0000088428</a></dc:source>
+<dc:language>Español</dc:language>
+<dcterms:isPartOf>dbitem1000170105</dcterms:isPartOf>
+<dcterms:isVersionOf>dbitem1000170104</dcterms:isVersionOf>
+<dc:rights><a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">http://creativecommons.org/licenses/by-nc-sa/4.0/</a></dc:rights>
+<dcterms:rightsholder>Biblioteca Nacional de España</dcterms:rightsholder>
+
+</metadata>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>La dama boba [BVMC]</dc:title>
+<dc:creator>Vega Carpio, Lope de</dc:creator>
+<dc:creator>Zamora Vicente, Antonio [editor]</dc:creator>
+<dc:creator>Soler Sasera, Eva [editora digital]</dc:creator>
+<dc:description>Edición digital de Artelope a partir de la de la Biblioteca Virtual Miguel de Cervantes.</dc:description>
+<dc:publisher>Biblioteca Digital Artelope</dc:publisher>
+<dcterms:created>2015</dcterms:created>
+<dc:type>Edición digital</dc:type>
+<dc:identifier>dbitem0200210601</dc:identifier>
+<dc:source><a href="https://artelope.uv.es/biblioteca/textosAL/AL0575_LaDamaBoba.php">https://artelope.uv.es/biblioteca/textosAL/AL0575_LaDamaBoba.php</a></dc:source>
+<dc:language>Español</dc:language>
+<dc:relation>Toma como base la edición de la Biblioteca Virtual Miguel de Cervantes</dc:relation>
+<dcterms:isVersionOf>dbitem0200200602</dcterms:isVersionOf>
+<dc:rights>Copyright Artelope, todos los derechos reservados</dc:rights>
+<dcterms:rightsholder>Artelope</dcterms:rightsholder>
+
+</metadata>

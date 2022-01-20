@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>La dama boba [ópera]</dc:title>
+<dc:creator>Vega Carpio, Lope de</dc:creator>
+<dc:creator>Wolf-Ferrari, Ermanno [compositor]</dc:creator>
+<dc:creator>Ghisalberti, Mario [letrista]</dc:creator>
+<dc:description>Ópera basada en la homónima comedia, estrenada el 1 de febrero de 1939 en La Scala de Milán.
+En Maguncia fue estrendada el 18 de junio de 1939 en el Stadttheater con el título <i>Das dumme Mädchen</i>.
+Disponible el mecanocrito digital que contiene el libreto de Ghisalberti.</dc:description>
+<dc:publisher>Internet Cultruale</dc:publisher>
+<dc:type>Mecanoscrito</dc:type>
+<dc:identifier>dbitem0000200406</dc:identifier>
+<dc:source><a href="https://www.internetculturale.it/jmms/iccuviewer/iccu.jsp?id=oai%3Awww.internetculturale.sbn.it%2FTeca%3A20%3ANT0000%3AMI0285_LIBR00955">https://www.internetculturale.it/jmms/iccuviewer/iccu.jsp?id=oai%3Awww.internetculturale.sbn.it%2FTeca%3A20%3ANT0000%3AMI0285_LIBR00955</a></dc:source>
+<dc:language>Italiano, Alemán</dc:language>
+<dcterms:temporal>1939</dcterms:temporal>
+<dcterms:spatial>Milán, Maguncia</dcterms:spatial>
+<dc:rights><a href="https://creativecommons.org/licenses/by-nc-sa/3.0/it/deed.it">https://creativecommons.org/licenses/by-nc-sa/3.0/it/deed.it</a></dc:rights>
+<dcterms:rightsholder>Archivio storico Ricordi</dcterms:rightsholder>
+
+</metadata>
