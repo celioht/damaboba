@@ -3,7 +3,7 @@ layout: page
 show_title: false
 banner:
   collection: damaboba
-  pid: docu001
+  pid: dbitem2000200305
   y: 25%
   height: '500px'
 ---
