@@ -19,10 +19,10 @@
 # ~> https://jekyllrb.com/docs/configuration/options/
 
 title:            'La dama boba'
-description:      'Minimal Exhibitions with Jekyll'
+description:      'Archivo Crítico Digital'
 url:              'https://celioht.github.io'
 baseurl:          '/damaboba'
-copyright:        'Example copyright org, 2019'
+copyright:        'Celio Hernández Tornero, 2022'
 logo:             '/assets/logo.png'
 
 # ---------------------------------------------------------------
@@ -91,11 +91,12 @@ search:
         fields: # the metadata fields to index
           - label
           - creator
+          - description
           - _date
           - object_type
-          - description
           - repository
-          - signature
+          - publisher
+          - contributor
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS

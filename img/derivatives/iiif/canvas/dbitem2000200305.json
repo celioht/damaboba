@@ -1,0 +1,32 @@
+---
+layout: none
+---
+{
+  "@type": "sc:Canvas",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/dbitem2000200305.json",
+  "label": "front",
+  "width": 1747,
+  "height": 1920,
+  "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/dbitem2000200305/full/250,/0/default.jpg",
+  "images": [
+    {
+      "@type": "oa:Annotation",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/dbitem2000200305.json",
+      "motivation": "sc:painting",
+      "resource": {
+        "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/dbitem2000200305/full/full/0/default.jpg",
+        "@type": "dcterms:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/dbitem2000200305",
+          "profile": "http://iiif.io/api/image/2/level0.json"
+        },
+        "width": 1747,
+        "height": 1920
+      },
+      "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/dbitem2000200305.json"
+    }
+  ],
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}
