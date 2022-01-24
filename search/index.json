@@ -63,6 +63,21 @@ layout: none
     "lunr_id": 3
   },
   {
+    "pid": "dbitem1000190112",
+    "label": "La dama boba",
+    "creator": "Vega Carpio, Lope de",
+    "description": "Edición incluida en la revista-biblioteca <i>El Teatro Español</i>. Precede al título: \"El Teatro Español\". 24 p. ; 25 cm.",
+    "publisher": "Sevilla: Imp. de Gironés y Orduña",
+    "contributor": null,
+    "_date": "1888",
+    "object_type": "Impreso",
+    "repository": "Biblioteca Nacional de España",
+    "collection": "damaboba",
+    "thumbnail": "/img/derivatives/iiif/images/dbitem1000190112_00/full/250,/0/default.jpg",
+    "permalink": "/damaboba/dbitem1000190112",
+    "lunr_id": 4
+  },
+  {
     "pid": "dbitem1000200307",
     "label": "Retrato de Piedad Iturbe",
     "creator": "Moreno Carbonero, José",
@@ -75,7 +90,22 @@ layout: none
     "collection": "damaboba",
     "thumbnail": "/img/derivatives/iiif/images/dbitem1000200307/full/250,/0/default.jpg",
     "permalink": "/damaboba/dbitem1000200307",
-    "lunr_id": 4
+    "lunr_id": 5
+  },
+  {
+    "pid": "dbitem1000200502",
+    "label": "Muñeca de María Guerrero",
+    "creator": "Galván, Francisco",
+    "description": "Muñeca de madera elaborada por el caricaturista Francisco Galván basada en las fotografías de Antonio García Peris. Artículo de José Francés sobre la figura publicado en <i>Mundo Gráfico</i> (17-12-1913. 5)",
+    "publisher": null,
+    "contributor": null,
+    "_date": "1913",
+    "object_type": "Muñeca",
+    "repository": "Hemeroteca Digital Hispánica",
+    "collection": "damaboba",
+    "thumbnail": "/img/derivatives/iiif/images/dbitem1000200502_0/full/250,/0/default.jpg",
+    "permalink": "/damaboba/dbitem1000200502",
+    "lunr_id": 6
   },
   {
     "pid": "dbitem1300190302",
@@ -90,7 +120,22 @@ layout: none
     "collection": "damaboba",
     "thumbnail": "/img/derivatives/iiif/images/dbitem1300190302/full/250,/0/default.jpg",
     "permalink": "/damaboba/dbitem1300190302",
-    "lunr_id": 5
+    "lunr_id": 7
+  },
+  {
+    "pid": "dbitem1500200124",
+    "label": "Expediente que de censura que contiene el texto de la adaptación de la obra realizada por Federico García Lorca para su representación en el tricentenario de la muerte Lope de Vega. En 4º; 111 p. No se sabe nada de la procedencia del texto, pero pudiera ser una refundición del texto de Diego San José y Rafaela Abadía",
+    "creator": "Vega Carpio, Lope de ; Schevill, Rudolph [editor]",
+    "description": "Expediente que de censura que contiene el texto de la adaptación de la obra realizada por Federico García Lorca para su representación en el tricentenario de la muerte Lope de Vega. En 4º; 111 p. No se sabe nada de la procedencia del texto, pero pudiera ser una refundición del texto de Diego San José y Rafaela Abadía",
+    "publisher": null,
+    "contributor": null,
+    "_date": "1935",
+    "object_type": "Mecanoscrito",
+    "repository": "Archivo General de la Administración",
+    "collection": "damaboba",
+    "thumbnail": "/img/derivatives/iiif/images/dbitem1500200124_21-05780-00006-001/full/250,/0/default.jpg",
+    "permalink": "/damaboba/dbitem1500200124",
+    "lunr_id": 8
   },
   {
     "pid": "dbitem2000170301",
@@ -105,7 +150,7 @@ layout: none
     "collection": "damaboba",
     "thumbnail": "/img/derivatives/iiif/images/dbitem2000170301/full/250,/0/default.jpg",
     "permalink": "/damaboba/dbitem2000170301",
-    "lunr_id": 6
+    "lunr_id": 9
   },
   {
     "pid": "dbitem2000200305",
@@ -120,13 +165,13 @@ layout: none
     "collection": "damaboba",
     "thumbnail": "/img/derivatives/iiif/images/dbitem2000200305/full/250,/0/default.jpg",
     "permalink": "/damaboba/dbitem2000200305",
-    "lunr_id": 7
+    "lunr_id": 10
   },
   {
     "pid": "dbitem2000200306",
     "label": "María Figueroa vestida de menina",
     "creator": "Sorolla Bastida, Joaquín",
-    "description": "Retrato de María de Figueroa y Bermejillo realizada por Sorolla en el que la niña porta el vestido que popularizó María Guerrero en <i>La niña boba</i>. 151,5 x 121 cm.",
+    "description": "Retrato de María de Figueroa y Bermejillo realizado por Sorolla en el que la niña porta el vestido que popularizó María Guerrero en <i>La niña boba</i>. 151,5 x 121 cm.",
     "publisher": null,
     "contributor": null,
     "_date": "1901",
@@ -135,7 +180,37 @@ layout: none
     "collection": "damaboba",
     "thumbnail": "/img/derivatives/iiif/images/dbitem2000200306/full/250,/0/default.jpg",
     "permalink": "/damaboba/dbitem2000200306",
-    "lunr_id": 8
+    "lunr_id": 11
+  },
+  {
+    "pid": "dbitem3000200304",
+    "label": "María Guerrero en <i>La niña boba</i>",
+    "creator": "Madrid Postal",
+    "description": "Tarjeta postal con fotografía de la actriz María Guerrero vestida con el traje de la obra \"La niña boba\" en plano medio, iluminada. No circulada.",
+    "publisher": "Madrid Postal",
+    "contributor": "García Peris, Antonio [fotógrafo]",
+    "_date": "ca. 1906",
+    "object_type": "Tarjeta postal",
+    "repository": "Biblioteca Digital Memoriademadrid",
+    "collection": "damaboba",
+    "thumbnail": "/img/derivatives/iiif/images/dbitem3000200304_0/full/250,/0/default.jpg",
+    "permalink": "/damaboba/dbitem3000200304",
+    "lunr_id": 12
+  },
+  {
+    "pid": "dbitem5000190107",
+    "label": "Buen maestro es amor ó la niña tonta",
+    "creator": "Vega Carpio, Lope de ; Solís, Dionisio [refundidor]",
+    "description": "Manuscrito autógrafo de José Fernández Guerra. Contiene lecturas de otros manuscritos de la obra. En port.: \"Refda. por Jose Frnz-Guerra\". 23 h. ",
+    "publisher": null,
+    "contributor": null,
+    "_date": "XIX",
+    "object_type": "Manuscrito",
+    "repository": "Col·lecció digital Biblioescènic del MAE ; Biblioteca Institut del Teatre",
+    "collection": "damaboba",
+    "thumbnail": "/img/derivatives/iiif/images/dbitem5000190107_00/full/250,/0/default.jpg",
+    "permalink": "/damaboba/dbitem5000190107",
+    "lunr_id": 13
   },
   {
     "pid": "dbitem6000190106",
@@ -150,11 +225,26 @@ layout: none
     "collection": "damaboba",
     "thumbnail": "/img/derivatives/iiif/images/dbitem6000190106_000/full/250,/0/default.jpg",
     "permalink": "/damaboba/dbitem6000190106",
-    "lunr_id": 9
+    "lunr_id": 14
+  },
+  {
+    "pid": "dbitem7000190110",
+    "label": "La dama boba ó buen maestro es amor",
+    "creator": "Vega Carpio, Lope de ; Orellana, Francisco José [editor]",
+    "description": "Edición popular de La dama boba. Pertenece a la colección \"Biblioteca popular\" de la imprenta de Salvador Manero Bayarri. 55 p. ; 20 cm.",
+    "publisher": "Barcelona: Salvador Manero",
+    "contributor": "Salvador Manero Bayarri [impresor]",
+    "_date": "1877",
+    "object_type": "Impreso",
+    "repository": "Biblioteca de Catalunya",
+    "collection": "damaboba",
+    "thumbnail": "/img/derivatives/iiif/images/dbitem7000190110_00/full/250,/0/default.jpg",
+    "permalink": "/damaboba/dbitem7000190110",
+    "lunr_id": 15
   },
   {
     "pid": "dbitem9000190113",
-    "label": "Buen maestro es amor ó La niña boba : comédie en troix actes et en vers [libreto]",
+    "label": "Buen maestro es amor ó La niña boba : comédie en trois actes et en vers [libreto]",
     "creator": "Vega Carpio, Lope de",
     "description": "Libreto que incluye el reparto de la obra y el argumento traducido al francés para la función que se celebró el 10 de abril de 1898 con motivo del Congreso Internacional de Higiene y Democracia. 16 p. ; 17 cm",
     "publisher": "Madrid: Est. Tipográfico de Ricardo Fé",
@@ -165,6 +255,6 @@ layout: none
     "collection": "damaboba",
     "thumbnail": "/img/derivatives/iiif/images/dbitem9000190113_00/full/250,/0/default.jpg",
     "permalink": "/damaboba/dbitem9000190113",
-    "lunr_id": 10
+    "lunr_id": 16
   }
 ]
