@@ -8,11 +8,14 @@ banner:
   height: '500px'
 ---
 
-_La dama boba_ es una de las comedias cumbre escritas por uno de los autores más importantes del Siglo de Oro en España, Félix Lope de Vega y Carpio, y es considerada como una de las obras referentes del periodo, tal y como se recoge en la colección [CANON 60](https://tc12.uv.es/?page_id=3626). Desde su composición en 1613 hasta la actualidad ha sido continumente adapatada a distintos formatos según las demandas y los gustos de los distintos públicos hasta llegar a la nueva era a través de una [edición crítica digital](http://damaboba.unibo.it/index.html).
+_La dama boba_ es una de las comedias cumbre escritas por uno de los autores más importantes del Siglo de Oro en España, Félix Lope de Vega y Carpio, y es considerada como una de las obras referentes del teatro del Siglo de Oro. Desde su composición en 1613 hasta la actualidad ha sido continuamente adapatada a distintos formatos según las demandas y los gustos de los distintos públicos hasta llegar a la era digital. Uno de los elementos más destacados de este último periodo se materializa a través de la [edición crítica digital](http://damaboba.unibo.it/index.html), dirigida por Marco Presotto en 2015.
 
-Los textos son algunos de los elementos que la tradición cultural de la obra ha ido generando, pero las diversas puestas en escena y su impacto social han favorecido la aparición de objetos que son testigos de su influencia tales como fotografías, cuadros o una muñeca. Además el desarrollo de la tecnología ha permitido incluso el salto al mundo audiovisual.
+El Archivo Crítico Digital que aquí se presenta es una "prueba de concepto" que intenta ofrecer una forma de aproximar y visualizar información sobre algunos de los elementos estudiados en mi tesis doctoral "Investigaciones sobre la transmisión, recepción y tradición cultural de _La dama boba_: del manuscrito autógrafo a la era digital", de la que forma parte esta web. No solo pretende ser solamente un lugar donde centralizar la información sobre la comedia sino que también se ha realizado un primer esfuerzo en buscar relaciones entre los distintos objetos con la intención de crear unas bases para un posterior desarrollo de una ontlogía digital.
 
-The collection items in this demo are from The Museum of Islamic Art, Qatar, (courtesy of [WikiMedia](https://commons.wikimedia.org/wiki/Category:Google_Art_Project_works_in_The_Museum_of_Islamic_Art,_Qatar) and [Google Art Project](https://www.google.com/culturalinstitute/about/artproject/)) and The Qatar National Library (via [World Digital Library](https://www.wdl.org/en/)).
+La procedencia de los elementos digitales contenidos en este portal se indica en la descripción de cada uno de ellos y, siempre que ha sido posible, se ha incluido un enlace al lugar de procedencia, además de información sobre el tipo de protección de Derechos que posee cada item.
+
+Los textos son algunos de los elementos que la tradición cultural de la obra ha ido generando, pero las diversas puestas en escena y su impacto social han favorecido la aparición de objetos que son testigos de su influencia tales como fotografías, pinturas u otros elementos de diversa tipología. Además, el desarrollo de la tecnología ha permitido incluso el salto al mundo audiovisual.
+
 
 ### Browse the Collection
 
