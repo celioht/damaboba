@@ -28,6 +28,26 @@ layout: none
       "label": "dbitem0100200303"
     },
     {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/dbitem1000170103/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "dbitem1000170103"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/dbitem1000170104/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "dbitem1000170104"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/dbitem1000170105/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "dbitem1000170105"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/dbitem1000170106/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "dbitem1000170106"
+    },
+    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/dbitem1000180101/manifest.json",
       "@type": "sc:Manifest",
       "label": "dbitem1000180101"
