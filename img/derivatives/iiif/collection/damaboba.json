@@ -28,6 +28,16 @@ layout: none
       "label": "dbitem0100200303"
     },
     {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/dbitem1000170101/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "dbitem1000170101"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/dbitem1000170102/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "dbitem1000170102"
+    },
+    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/dbitem1000170103/manifest.json",
       "@type": "sc:Manifest",
       "label": "dbitem1000170103"
@@ -146,6 +156,11 @@ layout: none
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/dbitem7000190110/manifest.json",
       "@type": "sc:Manifest",
       "label": "dbitem7000190110"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/dbitem8000190502/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "dbitem8000190502"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/dbitem9000190113/manifest.json",
