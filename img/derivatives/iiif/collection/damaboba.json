@@ -28,6 +28,16 @@ layout: none
       "label": "dbitem0100200303"
     },
     {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/dbitem1000180101/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "dbitem1000180101"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/dbitem1000180103/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "dbitem1000180103"
+    },
+    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/dbitem1000190101/manifest.json",
       "@type": "sc:Manifest",
       "label": "dbitem1000190101"
@@ -81,6 +91,21 @@ layout: none
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/dbitem2000200306/manifest.json",
       "@type": "sc:Manifest",
       "label": "dbitem2000200306"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/dbitem3000180102/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "dbitem3000180102"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/dbitem3000190104/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "dbitem3000190104"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/dbitem3000190105/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "dbitem3000190105"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/dbitem3000200304/manifest.json",
