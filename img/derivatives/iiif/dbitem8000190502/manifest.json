@@ -241,6 +241,5 @@ layout: none
       ]
     }
   ],
-  "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/dbitem8000190502_La Dama Boba-01/full/full/0/default.jpg",
-  "fullwidth": "{{ '/' | absolute_url }}img/derivatives/iiif/images/dbitem8000190502_La Dama Boba-01/full/1140,/0/default.jpg"
+  "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/dbitem8000190502_La Dama Boba-01/full/full/0/default.jpg"
 }

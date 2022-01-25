@@ -98,6 +98,21 @@ layout: none
       "label": "dbitem1000200502"
     },
     {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/dbitem1100200101/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "dbitem1100200101"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/dbitem1100200107/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "dbitem1100200107"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/dbitem1200200106/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "dbitem1200200106"
+    },
+    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/dbitem1300190302/manifest.json",
       "@type": "sc:Manifest",
       "label": "dbitem1300190302"
