@@ -1,0 +1,45 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/dbitem8000190502_La Dama Boba-01",
+  "protocol": "http://iiif.io/api/image",
+  "width": 1948,
+  "height": 2833,
+  "sizes": [
+    {
+      "width": 1948,
+      "height": 2833
+    },
+    {
+      "width": 250,
+      "height": 364
+    },
+    {
+      "width": 1140,
+      "height": 1658
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}
