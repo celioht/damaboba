@@ -135,11 +135,11 @@ menu:
 footer:
   links:
     - label: 'GitHub'
-      link: 'https://github.com/minicomp/wax'
-    - label: 'Credits'
+      link: 'https://github.com/celioht/damaboba'
+    - label: 'Créditos'
       link: '/credits'
-    - label: 'Contact'
-      link: 'https://gitter.im/minicomp/wax/'
+    - label: 'Contacto'
+      link: 'http://prolope.uab.cat/contacto.html'
   logos:
     - img: '/img/logo.png'
 
