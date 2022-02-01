@@ -1,8 +1,7 @@
 ---
 layout: exhibit
 title: 'Exhibit A: Inline Parallax Image'
-author: Mihr 'Ali
-publish_date: 2018-11-15
+publish_date: 2022-01-05
 permalink: /exhibits/a/
 ---
 
