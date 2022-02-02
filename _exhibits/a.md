@@ -10,7 +10,7 @@ Ut eleifend lacus at erat efficitur bibendum. Ut laoreet elit nec dolor molestie
 Nam velit leo, mattis ac dui non, vulputate porttitor sapien. Praesent in aliquet dui. Nulla facilisi. Maecenas nulla ex, facilisis non aliquet ac, ultrices eu sem. Sed vel aliquet urna. Mauris quis ex at lectus iaculis elementum id id massa. Integer luctus nulla vel tellus rutrum, ac pulvinar erat finibus. Aliquam erat volutpat. Pellentesque vel velit sit amet mauris dignissim feugiat.
 
 
-{% include parallax_image.html collection='damaboba' pid='dbitem0000190301' y='50%' %}
+{% include parallax_image.html collection='damaboba' pid='dbitem0000190301' y='25%' %}
 
 
 Duis commodo ligula libero, a pharetra ligula posuere sit amet. Sed ipsum dolor, elementum eget nisl eget, sagittis vestibulum augue. Donec tincidunt mauris et nunc sagittis, nec consectetur lorem tristique. Nulla tincidunt magna ut ullamcorper consectetur. Nulla mi urna, feugiat sed massa non, ullamcorper efficitur dolor.[^2] Sed luctus, massa eget pharetra posuere, nibh sem eleifend lectus, lobortis molestie ante libero non metus. Aenean et est sit amet est pulvinar convallis vel non tortor. Nunc semper commodo fringilla. Proin eget metus eget felis faucibus aliquet. Cras ultrices turpis id nibh cursus fringilla. Aenean nec magna turpis. Suspendisse egestas tellus iaculis ante pharetra imperdiet ac at odio.
@@ -19,6 +19,12 @@ Integer eu augue elementum, venenatis nisi vitae, ultrices magna. Nunc accumsan 
 
 Duis finibus leo non velit viverra tincidunt. Fusce efficitur laoreet convallis. Sed sem felis, porttitor sit amet volutpat ac, consequat quis lectus. Donec elementum dignissim vehicula. Pellentesque fringilla ex bibendum, ornare sapien a, mollis neque. Duis faucibus diam vitae faucibus feugiat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris pharetra elit sem, et euismod massa mattis ut. Phasellus maximus ipsum in nulla sollicitudin viverra. Morbi semper lectus quis dolor cursus, ut convallis lacus venenatis. Pellentesque lorem mauris, malesuada a fringilla et, iaculis sodales metus. Suspendisse finibus purus ut sem commodo feugiat.
 
+
+
+## Ejemplo de vídeo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fOHvN8vbVJI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ---
 
 ### Notas
@@ -26,8 +32,3 @@ Duis finibus leo non velit viverra tincidunt. Fusce efficitur laoreet convallis.
 [^1]: Integer eu augue elementum, venenatis nisi vitae, ultrices magna. Nunc accumsan sem quis tristique iaculis. Quisque sed lorem tortor.
 
 [^2]: Nunc semper commodo fringilla. Proin eget metus eget felis faucibus aliquet. Cras ultrices turpis id nibh cursus fringilla. Aenean nec magna turpis. Suspendisse egestas tellus iaculis ante pharetra imperdiet ac at odio.
-
-
-## Ejemplo de vídeo
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fOHvN8vbVJI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
