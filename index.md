@@ -8,12 +8,17 @@ banner:
   height: '500px'
 ---
 
-_La dama boba_ es una de las comedias cumbre escritas por uno de los autores más importantes del Siglo de Oro en España, Félix Lope de Vega y Carpio, y es considerada como una de las obras referentes del periodo, tal y como se recoge en la colección [CANON 60](https://tc12.uv.es/?page_id=3626). Desde su composición en 1613 hasta la actualidad ha sido continumente adapatada a distintos formatos según las demandas y los gustos de los distintos públicos hasta llegar a la nueva era a través de una [edición crítica digital](http://damaboba.unibo.it/index.html).
+## _La dama boba_: archivo crítico digital de una tradición cultural
 
-Los textos son algunos de los elementos que la tradición cultural de la obra ha ido generando, pero las diversas puestas en escena y su impacto social han favorecido la aparición de objetos que son testigos de su influencia tales como fotografías, cuadros o una muñeca. Además el desarrollo de la tecnología ha permitido incluso el salto al mundo audiovisual.
+_La dama boba_ es una de las comedias cumbre escritas por uno de los autores más importantes del Siglo de Oro en España, Félix Lope de Vega y Carpio, y es considerada como una de las obras referentes del teatro del Siglo de Oro. Desde su composición en 1613 hasta la actualidad ha sido continuamente adapatada a distintos formatos según las demandas y los gustos de los distintos públicos hasta llegar a la era digital. Uno de los elementos más destacados de este último periodo se materializa a través de la [edición crítica digital](http://damaboba.unibo.it/index.html), dirigida por Marco Presotto en 2015.
 
-The collection items in this demo are from The Museum of Islamic Art, Qatar, (courtesy of [WikiMedia](https://commons.wikimedia.org/wiki/Category:Google_Art_Project_works_in_The_Museum_of_Islamic_Art,_Qatar) and [Google Art Project](https://www.google.com/culturalinstitute/about/artproject/)) and The Qatar National Library (via [World Digital Library](https://www.wdl.org/en/)).
+Los textos son algunos de los elementos que la tradición cultural de la obra ha ido generando, pero las diversas puestas en escena y su impacto social han favorecido la aparición de objetos que son testigos de su influencia tales como: fotografías, pinturas u otros elementos de diversa tipología. Además, el desarrollo de la tecnología ha permitido incluso el salto al mundo audiovisual y digital.
 
-### Browse the Collection
+La procedencia de los objetos digitales contenidos en este portal se indica en la descripción de cada uno de ellos y, siempre que ha sido posible, se ha incluido un enlace al lugar de procedencia, además de información sobre el tipo de protección de Derechos que posee cada item.
+
+Más [información](/about/) disponible en la sección correspondiente.
+
+
+### Navega por la colección
 
 {% include collection_gallery.html facet_by='object_type' collection='damaboba' %}

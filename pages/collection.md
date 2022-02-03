@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Browse the Collection
+title: Navega por la colección
 permalink: /collection/
 ---
 
-This site's sample collection comprises a set of objects, each of which is represented by one or more images. The collection items in this demo are from The Museum of Islamic Art, Qatar, (courtesy of [WikiMedia](https://commons.wikimedia.org/wiki/Category:Google_Art_Project_works_in_The_Museum_of_Islamic_Art,_Qatar) and [Google Art Project](https://www.google.com/culturalinstitute/about/artproject/)) and The Qatar National Library (via [World Digital Library](https://www.wdl.org/en/)).
+La colección está formada por objetos digitales y registros derivados de la tradición cultural de _La dama boba_ y su pervivencia a través del tiempo. Dentro de cada uno de los elementos se indica información sobre ellos entre la que se incluye su lugar de procedencia o los derechos que protegen a cada uno de ellos.
+
+Su selección responde al estudio de la obra realizado en la tesis doctoral: _Investigaciones sobre la transmisión, recepción y tradición cultural de La dama boba: del manuscrito autógrafo a la era digital_.
 
 
 {% include collection_gallery.html collection='damaboba' facet_by='object_type' %}

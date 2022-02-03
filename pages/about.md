@@ -1,48 +1,33 @@
 ---
 layout: page
-title: What is Wax?
+title: Desarrollo
 permalink: /about/
 ---
 
-**Wax helps you create digital exhibits.**   
-A digital exhibit is a collection of curated cultural artifacts—manuscripts, paintings, photographs, sculptures, etc—often accompanied by an explicit narrative or argument. Though Wax focuses on images and text, it could be used for sound or video collections with some customization.
+**Una prueba de concepto**   
+El **Archivo Crítico Digital** que aquí se presenta es una "prueba de concepto" que intenta ofrecer una forma de aproximar y visualizar información sobre algunos de los elementos estudiados en mi tesis doctoral "Investigaciones sobre la transmisión, recepción y tradición cultural de _La dama boba_: del manuscrito autógrafo a la era digital", de la que forma parte esta web. Este no pretende ser solamente un lugar donde centralizar la información de la historia y tradición cultural de la comedia sino que también se ha realizado un primer esfuerzo en buscar relaciones entre los distintos objetos con la intención de crear unas bases para un posterior desarrollo de una ontología digital.
 
-**Wax is an extensible workflow based on minimal computing principles.**  
-Wax is hyper-aware of differences in resources, control and access around the world and close to home. As a result, it is purposefully lightweight: a few Ruby gems, some customizable UI components, good documentation and (hopefully soon!) recipes for creating, deploying, and maintaining custom digital exhibitions.
+**Dublin Core**  
+Previo al desarrollo de la web se han creado unos registros en formato "Dublin Core" que se encuentran contenidos en la carpeta `dc_records`. Se ha elaborado un total de 179 registros en este formato por su facilidad descriptiva y por contemplar la posibilidad de creación de relaciones entre elementos. Se incluye un archivo `Readme.md` que explica su proceso de creación.
 
-**The exhibition sites created by Wax are static.**  
-This means they consist of flat HTML, CSS, and JavaScript files that don't need to communicate in a complex way back to a server. This makes them cheaper, safer, and generally easier to maintain.
+**Elementos contenidos**  
+En la primera fase de creación de este portal se han utilizado 35 registros que poseen objetos digitales propios. Se ha elaborado un documento CSV que recoge información procedente de los registros Dublin Core de cada uno de los elementos y se ha intentado reflejar algunas de las relaciones entre ellos. Además, se ha incluido un enlace de descarga del archivo Dublin Core.
 
-**The skills needed to create Wax sites are agnostic.**  
-This means they are largely transferable for use in other digital projects. 'Learning Wax' does not mean learning how to use a platform. It involves learning the fundamentals of web development, data management, and [plain text editing](https://zapier.com/blog/beginner-ultimate-guide-markdown/) while leveraging a few great open source libraries and frameworks along the way.
+**Desarrollos futuros**
+- Progresivamente se irán incluyendo registros adicionales basados en los archivos Dublin Core existentes.
+- Adicionalmente, se pueden crear nuevos registros Dublin Core de nuevos elementos.
+- Tras la defensa de la tesis doctoral se procederá al desarrollo de la sección "Estudio" que incluirá los textos de la investigación en torno a la obra con entradas independientes de los apartados de la tesis y que se articulan en un discurso temático y cronológico.
 
-**Wax keeps the collection presentation separate from the collection data.**  
-The Wax workflow starts with making standardized image files and metadata records and builds around them, handling canonical information, scholarly content, and site styling differently and deliberately. This makes it easier for you or others to share, reuse and reimagine your collection data in other contexts.
+## ¿Por qué _minimal computing_?
 
-## Who is Wax for?
-
-Wax was created for individuals and groups who either don't have or don't want to use a lot of resources to create their scholarly or cultural exhibits. It's best suited for folks who are willing to take on some technical responsibility in exchange for a lot of flexibility.
-
-For beginners, Wax has a relatively high, but general-purpose learning curve. To get the most out of Wax, you should have some familiarity with:
-
-- Using an interactive shell (e.g., Bash/Terminal) to install and interact with programs, files, and directories on your local computer.
-- Using Git and GitHub to version control and collaborate on projects.
-- Using Jekyll to generate static sites.
-- Creating and normalizing data files (e.g., CSV, JSON, YAML)
-- Using file-naming conventions and best practices.
-- Editing HTML, CSS, and some JavaScript.
-
-**However, Wax is also great for teaching or learning the skills above!** For examples of digital pedagogy via the creation of Wax exhibitions, check out [this workshop](https://www.columbia.edu/content/events/introduction-minimal-computing-humanities-building-exhibit-primary-sources-using-wax), [this GitHub repository](https://github.com/stylerevolution/stylerevolution.github.io), and [this custom Wax site](https://stylerevolution.github.io/).
-
-**Wax is also phenomenal for professionals who play a facilitating role**, such as Digital Scholarship Librarians or Coordinators. With some practice, Wax substantially reduces the time to production and post-production maintenance costs for you and your team. In the most common scenario, students, faculty, colleagues or any other collaborators just have to provide you with a properly formatted spreadsheet and the text for the exhibits. The extras are up to you.
+El uso de _minimal computing_, a través de Wax, permite la creación de una web de diseño simple que no requiere de una gran cantidad de recursos para crear collecciones académicas. Esta escasa necesidad de recursos de almacenamiento, de procesamiento o energéticos redunda en una mejor accsibilidad a al portal donde se dispone de forma concisa y simple la información; una mayor estabilidad para conexiones con acceso limitado; además, se favorece la autogestión del sitio web con una gran flexibilidad (aunque con una curva de aprendizaje de uso algo elevada que requiere conocimientos previos).
 
 
-## So what does the Wax workflow *look like?*
+**Características de Wax**
+- Wax es una proyecto que permite la creación de exposiciones digitales y de colecciones.
+- Se basa en los principios de _minimal computing_.
+- Crea páginas web estáticas basadas en HTML, CSS y archivos JavaScript.
+- No necesita aprendizaje de uso de ninguna plataforma, tan solo requiere conocimientos sobre fundamentos básicos para el desarrollo web.
+- Separa la presentación de las colecciones de los dato de las misma, lo que favorece la reutilización de estos en otros contextos.
 
-Below is a diagram to give you a zoomed-out view. In summary, you create a file of metadata records for your collection (in CSV, YAML, or JSON format), organize your collection image files, and put both in the Jekyll site folder. After updating your configuration, you run a few command line tasks to prepare the data and metadata for use by the Jekyll site. Jekyll then uses special layouts and Wax components to build the exhibit and spits them out as static pages ready to publish.
-
-From there, you can run tests on your site to catch errors and decide where and how to put it online or in offline media.
-
-<a href="{{ '/img/wax_workflow.jpg' | absolute_url }}">
-  <img src="{{ '/img/wax_workflow.jpg' | absolute_url }}"/>
-</a>
+Más información sobre [Wax](https://minicomp.github.io/wax/about/) en el enlace.
