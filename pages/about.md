@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Desarrollo
-permalink: /about/
+permalink: /dbabout/
 ---
 
 **Una prueba de concepto**   
