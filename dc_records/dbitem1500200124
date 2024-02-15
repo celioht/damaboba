@@ -14,7 +14,7 @@ xmlns:dcterms="http://purl.org/dc/terms/">
 <dc:identifier>dbitem1500200124</dc:identifier>
 <dc:source><a href="http://pares.mcu.es/ParesBusquedas20/catalogo/description/3536579">http://pares.mcu.es/ParesBusquedas20/catalogo/description/3536579</a></dc:source>
 <dc:language>Español</dc:language>
-<dc:relation>Esta adaptación se basa indudablemente de la versión de Hartzenbusch</dc:realtion>
+<dc:relation>Esta adaptación se basa indudablemente en la versión de Hartzenbusch</dc:realtion>
 <dcterms:isBasedOn>dbitem1000190102</dcterms:isBasedOn>
 <dc:rights>Copyright Archivo General de la Administración, todos los derechos reservados</dc:rights>
 <dcterms:rightsholder>Archivo General de la Administración</dcterms:rightsholder>
