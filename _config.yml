@@ -112,12 +112,12 @@ menu:
         link: '/about/'
       - label: 'Créditos'
         link: '/credits/'
-  - label: 'Estudio'
-    sub:
-      - label: 'Inline Parallax Image'
-        link: '/exhibits/a/'
-      - label: 'Inline Image References'
-        link: '/exhibits/b/'
+#  - label: 'Estudio'
+#    sub:
+#      - label: 'Inline Parallax Image'
+#        link: '/exhibits/a/'
+#      - label: 'Inline Image References'
+#        link: '/exhibits/b/'
   - label: 'Navegar'
     link: '/collection/'
   - label: 'Buscar'
