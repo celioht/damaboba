@@ -73,5 +73,6 @@ layout: none
       ]
     }
   ],
-  "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/dbitem0100200302_01Small/full/full/0/default.jpg"
+  "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/dbitem0100200302_01Small/full/full/0/default.jpg",
+  "fullwidth": "{{ '/' | absolute_url }}img/derivatives/iiif/images/dbitem0100200302_01Small/full/1140,/0/default.jpg"
 }
